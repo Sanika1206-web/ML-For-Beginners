@@ -243,3 +243,5 @@ For product feedback or to search existing community posts, visit the Developer 
 - Review notebooks after each lesson for better understanding.
 - Practice implementing algorithms on your own.
 - Explore real-world datasets using learned concepts.
+
+This README was updated for my Git practical.
